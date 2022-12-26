@@ -1,36 +1,3 @@
-### Hi there 👋
-
-<!--
-**kadirsametseki/kadirsametseki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Kadir Samet Seki</h1>
-<h3 align="center">Software Developer || Java Backend Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kadirsametseki&label=Profile%20views&color=0e75b6&style=flat" alt="kadirsametseki" /> </p>
-
-- 🔭 I’m currently working on **Microservices project**
-
-- 🌱 I’m currently learning **Spring Boot**
-
-- 👨‍💻 All of my projects are available at [https://github.com/kadirsametseki?tab=repositories](https://github.com/kadirsametseki?tab=repositories)
-
-- 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
-
-- 💬 Ask me about **Java Spring Boot**
-
-- 📫 How to reach me **kadirsametseki1999.02@gmail.com**
-
 <div align="center">
   
 [![GitHub followers](https://img.shields.io/github/followers/kadirsametseki?style=flat&logo=github)](https://github.com/kadirsametseki?tab=followers)
