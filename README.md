@@ -22,14 +22,12 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&labelColor=black"/> 
 <img alt="Static Badge" src="https://img.shields.io/badge/Spring_Boot-%236DB33F?style=for-the-badge&logo=springboot&labelColor=black&color=%236DB33F"> 
 <img alt="Static Badge" src="https://img.shields.io/badge/Apache_Kafka-grey?style=for-the-badge&logo=apachekafka&labelColor=black&color=grey"> 
-<img alt="Static Badge" src="https://img.shields.io/badge/Apache_Kafka-%23231F20?style=for-the-badge&logo=apachekafka&labelColor=black&color=%23231F20"> 
 <img alt="Static Badge" src="https://img.shields.io/badge/Spring_Cloud-%236DB33F?style=for-the-badge&logo=spring&labelColor=black&color=%236DB33F"> 
 <img alt="Static Badge" src="https://img.shields.io/badge/Spring_Security-%236DB33F?style=for-the-badge&logo=springsecurity&labelColor=black&color=%236DB33F"> 
 <img alt="Static Badge" src="https://img.shields.io/badge/Thymeleaf-%23005F0F?style=for-the-badge&logo=thymeleaf&labelColor=black&color=%23005F0F"> 
 <img alt="Static Badge" src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&labelColor=black&color=%232496ED"> 
 <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&labelColor=black&color=%234479A1"> 
-<img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&labelColor=black&color=%234169E1"> 
-<img alt="Static Badge" src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&labelColor=black&color=%234479A1"> 
+<img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&labelColor=black&color=%234169E1">  
 <img alt="Static Badge" src="https://img.shields.io/badge/Elastic_search-%23005571?style=for-the-badge&logo=elasticsearch&labelColor=black&color=%23005571"> 
 <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&labelColor=black&color=%23F05032"> 
 </p>
